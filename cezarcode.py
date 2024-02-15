@@ -1,5 +1,5 @@
 from string import ascii_letters as ac
-file=open("filegen.txt","r")
+file=open("[filename.txt]","r")
 content=file.read()
 st=""
 for i in content:
